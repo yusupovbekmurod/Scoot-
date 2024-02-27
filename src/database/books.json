@@ -1,0 +1,66 @@
+[
+    {
+        "id": 2,
+        "name": "Hitlerjon",
+        "page": 1004234,
+        "price": 300000,
+        "janri": "race",
+        "author": "Nigga",
+        "year": 2020,
+        "janr": "badiy"
+    },
+    {
+        "id": 3,
+        "name": "Book 3",
+        "page": 100,
+        "price": 25000,
+        "janri": "arcada",
+        "author": "Churchil",
+        "year": 1980
+    },
+    {
+        "id": 4,
+        "name": "Book 4",
+        "page": 150,
+        "price": 28000,
+        "janri": "soqqa",
+        "author": "Musk",
+        "year": 1990
+    },
+    {
+        "id": 5,
+        "name": "Book 5",
+        "page": 190,
+        "price": 280000,
+        "janri": "quvalash",
+        "author": "Musk",
+        "year": 2000
+    },
+    {
+        "id": 6,
+        "name": "Book 6",
+        "author": "Hitlerjon",
+        "price": 300000,
+        "janr": "badiy",
+        "page": 100,
+        "year": 2020
+    },
+    {
+        "id": 7,
+        "name": "Book 7",
+        "author": "Hitler",
+        "price": 300000,
+        "janr": "badiy",
+        "page": 100,
+        "year": 2020
+    },
+    {
+        "id": 8,
+        "author": "Nigga",
+        "name": "Hitlerjon",
+        "price": 300000,
+        "janr": "badiy",
+        "page": 1004234,
+        "year": 2020
+    }
+]
